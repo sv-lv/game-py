@@ -1,2 +1,2 @@
 # game-py
-Game 
+Games: calculator, countries, predictions, rullete, train.
